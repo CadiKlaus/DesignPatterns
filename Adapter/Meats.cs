@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
+    ///enum
     public enum TemperatureType
     {
         Fahrenheit,
